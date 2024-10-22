@@ -1,0 +1,16 @@
+.home {
+    color: white;
+    background-color: #1c1c1c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10vh;
+  }
+
+  .titulo{
+    display: block;
+
+  }
+  
